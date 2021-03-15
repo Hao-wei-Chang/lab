@@ -1,7 +1,7 @@
 # HW1
 
 ## What do you think of cloud computing?
-### 只要使用者能透過網路、由用戶端登入遠端伺服器進行操作，就可以稱為雲端運算。
+只要使用者能透過網路、由用戶端登入遠端伺服器進行操作，就可以稱為雲端運算。
 雲端運算的特徵可分為以下5點：
 1. On-demand self-service（按需求自行調配服務）
 2. Broad Network Access（網路存取方式廣泛、多元）
