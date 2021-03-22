@@ -1,10 +1,8 @@
 # FinTech Cloud Computing
----
 ## Introduce
-### 張皓崴
-### 巨資二B
-
----
+* Name:張皓崴
+* Major：Big Data Management
+* School：Soochow University
 ## HW
 > #### HW1 What do you think of Cloud Computing ?
 * [HW1](https://github.com/Hao-wei-Chang/lab/blob/main/homework/HW1.md)
