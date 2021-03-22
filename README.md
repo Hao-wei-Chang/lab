@@ -1,7 +1,8 @@
 # FinTech
 ---
 ## Introduce
-###
+### 張皓崴
+### 巨資二B
 
 ---
 ## HW
