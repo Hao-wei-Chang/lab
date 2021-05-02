@@ -13,7 +13,7 @@
 > #### HW4 Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda.
 * [HW4](https://github.com/Hao-wei-Chang/lab/blob/main/homework/HW4.md)
 > #### HW5 Create a Database using Amazon RDS or Amazon DynamoDB.
-* HW5
+* [HW5](https://www.youtube.com/watch?v=zIajAsHrirs)
 > #### HW6 Create a Docker Container or Build your own Project Services
 * HW6 
 ## Fintech-Final Project
