@@ -15,5 +15,5 @@
 > #### HW5 Create a Database using Amazon RDS or Amazon DynamoDB.
 * [HW5](https://www.youtube.com/watch?v=zIajAsHrirs)
 > #### HW6 Create a Docker Container or Build your own Project Services
-* HW6 
+* [HW6](https://www.youtube.com/watch?v=3hkEFHqOgtI) 
 ## Fintech-Final Project
